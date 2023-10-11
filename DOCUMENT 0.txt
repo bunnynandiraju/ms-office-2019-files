@@ -1,0 +1,3 @@
+Shift + Right Click
+.\setup.exe /configure .\configuration-Office2019Enterprise.xml
+
